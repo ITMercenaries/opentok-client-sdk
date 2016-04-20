@@ -1,0 +1,15 @@
+{
+    "name": "opentok-client-sdk",
+    "version": "1.0.0",
+    "description": "The OpenTok.js library lets you use OpenTok-powered video sessions on the web",
+    "main": "opentok.min.js",
+    "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Aykut Yaman",
+    "license": "ISC",
+    "repository": {
+	"type": "git",
+	"url": "git+https://github.com/aykutyaman/opentok-client-sdk.git"
+    }
+}
